@@ -1,5 +1,8 @@
 _repo: The-Man-Higher-Up_67292
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67292-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Balmer, Edwin
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '54198'
     url: http://www.gutenberg.org/2009/agents/54198
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67292#The-Man-Higher-Up
 gutenberg_issued: '2022-01-31'
 identifiers:
   gutenberg: '67292'
